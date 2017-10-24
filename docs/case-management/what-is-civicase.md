@@ -16,7 +16,7 @@ processes. A case can be used to:
 -   automate the task of remembering and scheduling follow-up
     activities.
 
-CiviCase relies on Activities. To learn about how they work, see the
+CiviCase relies on [Activities](https://docs.civicrm.org/user/en/latest/organising-your-data/mapping-your-data/#activities "Activities"). To learn about how they work, see the
 Activities chapter.
 
 Organisations have employed CiviCase in a wide variety of situations.
